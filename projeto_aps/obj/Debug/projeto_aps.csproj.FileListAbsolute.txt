@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\projeto_aps\projeto_aps\bin\Debug\projeto_aps.exe.config
+C:\Users\gabri\source\repos\projeto_aps\projeto_aps\bin\Debug\projeto_aps.exe
+C:\Users\gabri\source\repos\projeto_aps\projeto_aps\bin\Debug\projeto_aps.pdb
+C:\Users\gabri\source\repos\projeto_aps\projeto_aps\obj\Debug\projeto_aps.csprojResolveAssemblyReference.cache
+C:\Users\gabri\source\repos\projeto_aps\projeto_aps\obj\Debug\projeto_aps.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\projeto_aps\projeto_aps\obj\Debug\projeto_aps.exe
+C:\Users\gabri\source\repos\projeto_aps\projeto_aps\obj\Debug\projeto_aps.pdb
